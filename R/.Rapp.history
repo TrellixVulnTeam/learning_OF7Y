@@ -1,12 +1,20 @@
-intro = c(2,2,3,2,2)#
-mean(intro)
 getwd()
 setwd("./Desktop/learning/R/")
-library(readxl)
-df = read.xlsx("./Monopoly.xlsx")
-library(readxl)
-library(readxl)
-df = read_xlsx("./Monopoly.xlsx")
-library(tidyverse)
-df %>%
-as.factor(Family)
+getwd()
+df = read.csv("Averages_per_monopoly_square.csv")
+df
+df = read.csv("Averages_per_monopoly_square.csv")
+df
+df = read.csv("Averages_per_monopoly_square.csv")
+df
+df[3,]
+payback = 375/42.5
+payback
+paybackWithSet = 375/85
+paybackWithSet
+paybackWithSet = (375*2)/85
+paybackWithSet
+paybackWithHotel = (800+375)/1750
+paybackWithHotel
+for i in range(df$Family):#
+	print(i)

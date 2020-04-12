@@ -26,17 +26,26 @@ monopoly %>%
   group_by(Family) %>%
   summarise(Freq = mean(Frequency))
 
-p = ggplot(monopoly, aes(x = Family, y = Frequency, fill = Family)) +
-  geom_violin(trim = FALSE)
-
+# Make a box plot about frequency and family ####
 pbox = ggplot(monopoly, aes(x = Family, y = Frequency, fill = Family)) +
   geom_boxplot()
 
-p + stat_summary(fun.y = mean, geom = "point", shape = 2, size = 1)
-
 pbox + scale_fill_manual(values = pal) + ylim(0.02,0.04) + theme_classic()
 
+# make a scatter plot for frequency ~ price ####
+pointPlot = ggplot(monopoly, aes(x = Price, y = Frequency, color = Family)) +
+  geom_point()
 
+pointPlot + 
+  scale_color_manual(values = pal) + 
+  labs(title = "Frequency ~ Price of Square") +
+  theme_bw()
 
-  
-
+# make a table with average prices based on frequency
+monopoly %>%
+  group_by(Family) %>%
+  summarize(avgVisitPercent = (mean(Frequency) * 100),
+            avgRent = mean(`Property Rent`), 
+            avgRentWithSet = mean(`Rent with Set`),
+            avgRentHotel = mean(Hotel), 
+            avgImproveCost = mean(`Improvement Cost`))
