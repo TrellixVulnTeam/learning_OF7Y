@@ -1,0 +1,72 @@
+---
+title: "Importing_Data"
+author: "Peter Williams"
+date: "4/24/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dslabs)
+library(tidyverse)
+library(readxl)
+```
+
+### Readr & Readxl  
+
+```{r}
+# This will load the file path needed to get the murders .csv from the dslabs package
+filename <- "murders.csv"
+dir <- system.file("extdata", package = "dslabs") 
+fullpath <- file.path(dir, filename)
+file.copy(fullpath, "murders.csv")
+```
+
+  
+* There are two main libraries for loading data in:  
+  + Readr  
+  + Readxl
+    
+* Because we created a filename object for the path of our data, we can load the data like so:
+```{r}
+dat = read_csv(filename)
+```
+  
+* Using filepaths we can find the data sets that are stored in this package:
+
+```{r message=FALSE, warning=FALSE}
+path <- system.file("extdata", package = "dslabs")
+files <- list.files(path)
+files
+```
+  
+* Data can also be read in from a url (for example data stored on GitHub)
+
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+url <- "https://raw.githubusercontent.com/rafalab/dslabs/master/inst/extdata/murders.csv"
+dat = read_csv(url)
+```
+  
+* If we want to store a local copy, we can use the download.file() function
+```{r}
+download.file(url, "murders.csv")
+```
+
+# import this data from the internet
+url = "http://mlr.cs.umass.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data"
+dat = read_csv(url, col_names = FALSE)
+
+# how many rows are there?
+
+
+
+filename = file.path(path, "fertility-two-countries-example.csv")
+widedata = read_csv(filename)
+longdata = gather(widedata, key = Year, value = Rate, -country, convert = TRUE)
+
+longdata %>%
+  ggplot(aes(x = Year, y = Rate, color = country)) +
+  geom_point()

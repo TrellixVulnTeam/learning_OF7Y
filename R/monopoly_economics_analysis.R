@@ -42,10 +42,14 @@ pointPlot +
   theme_bw()
 
 # make a table with average prices based on frequency
-monopoly %>%
+table = monopoly %>%
   group_by(Family) %>%
   summarize(avgVisitPercent = (mean(Frequency) * 100),
+            avgPrice = mean(Price),
             avgRent = mean(`Property Rent`), 
             avgRentWithSet = mean(`Rent with Set`),
             avgRentHotel = mean(Hotel), 
-            avgImproveCost = mean(`Improvement Cost`))
+            avgImproveCost = mean(`Improvement Cost`),
+            avgRailRoad = mean(`Railroad Rent`))
+
+write.csv(table, "./Averages_per_monopoly_square.csv")

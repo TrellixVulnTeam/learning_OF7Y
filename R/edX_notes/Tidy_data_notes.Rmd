@@ -1,0 +1,70 @@
+---
+title: "Tidying Data Notes edX"
+author: "Peter Williams"
+date: "4/24/2020"
+output: pdf_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+  
+* When tidying data, each row should contain 1 observation and each column should be one variable  
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+answersE4.2 = c("a", "b", "c", "bcde")
+```
+  
+* Columns can be added with mutate()
+  + Glimpse of murder before mutate():
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(tidyverse)
+murders = read.csv("murders.csv")
+head(murders, 3)
+```
+  
+  + Glimpse of murder after **mutate()**:
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+murders = mutate(murders, rate = total / population * 100000)
+head(murders, 3)
+```
+  
+* Data sets can be filtered with the **filter()** function:
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+murders = filter(murders, rate <= 0.71)
+head(murders, 3)
+```
+
+* Columns can be selected with **select(df, col1, col2, col3, coln)**  
+* The **pull()** function can help us to isolate integers from a single observation data frame:
+```{r}
+us_murder_rate <- murders %>%
+  summarize(rate = sum(total) / sum(population) * 100000)
+us_murder_rate
+# Summarize gives us a new data frame, however, using pull() we can extract integers
+us_murder_rate %>% pull(rate)
+```
+  
+* The **arrange()** function can be used to order a dataframe.  
+  + if there is a tie in the order, a second argument can be used to break the tie:
+  
+```{r}
+murders %>%
+  arrange(region, rate) %>%
+  head(2)
+# This reads: arrange the murders df by region, if regions are the same arrange the region by rate
+```
+  
+  + Another useful organizational function is the **top_n()** function. This function is the combination of head() and arrange()  
+
+
+#### Tibbles vs. Data Frames
+  
+Essentially, a tibble is a modern day data frame, however, there are four major differences between them:  
+1.  Tibbles display better  
+2.  Subsets of tibbles are tibbles  
+3.  Tibbles can have complex entries  
+4.  Tibbles can be grouped  
+  
+
+
