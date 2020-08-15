@@ -140,3 +140,9 @@ library(gridExtra)
 p1 <- qplot(x)
 p2 <- qplot(x,y)
 grid.arrange(p1, p2, ncol = 2)
+
+
+# summarizing with dplyer
+
+
+
