@@ -1,0 +1,481 @@
+case,section ,level,region,number,width
+i26,540,body,CA1,1,14.787266
+i26,540,body,CA1,2,12.165185
+i26,540,body,CA1,3,18.834629
+i26,540,body,CA1,4,15.944654
+i26,540,body,CA1,5,17.004339
+i26,540,body,CA1,6,17.316921
+i26,540,body,CA1,7,15.68447
+i26,540,body,CA1,8,14.37853
+i26,540,body,CA1,9,16.212982
+i26,540,body,CA1,10,14.689195
+i26,540,body,ProSub1 (clumpy),1,17.77739
+i26,540,body,ProSub1 (clumpy),2,12.829423
+i26,540,body,ProSub1 (clumpy),3,14.470693
+i26,540,body,ProSub1 (clumpy),4,12.927498
+i26,540,body,ProSub1 (clumpy),5,13.871095
+i26,540,body,ProSub1 (clumpy),6,15.791742
+i26,540,body,ProSub1 (clumpy),7,13.314466
+i26,540,body,ProSub1 (clumpy),8,14.386607
+i26,540,body,ProSub1 (clumpy),9,15.116267
+i26,540,body,ProSub1 (clumpy),10,15.603443
+i26,540,body,Prosub2 (smaller),1,13.120418
+i26,540,body,Prosub2 (smaller),2,15.451132
+i26,540,body,Prosub2 (smaller),3,11.765267
+i26,540,body,Prosub2 (smaller),4,15.331795
+i26,540,body,Prosub2 (smaller),5,14.806421
+i26,540,body,Prosub2 (smaller),6,14.069922
+i26,540,body,Prosub2 (smaller),7,14.065293
+i26,540,body,Prosub2 (smaller),8,12.864234
+i26,540,body,Prosub2 (smaller),9,12.49767
+i26,540,body,Prosub2 (smaller),10,13.847614
+i26,540,body,Subiculum,1,16.640583
+i26,540,body,Subiculum,2,19.579971
+i26,540,body,Subiculum,3,16.411257
+i26,540,body,Subiculum,4,16.115494
+i26,540,body,Subiculum,5,17.06481
+i26,540,body,Subiculum,6,13.963392
+i26,540,body,Subiculum,7,16.512207
+i26,540,body,Subiculum,8,14.682375
+i26,540,body,Subiculum,9,14.424381
+i26,540,body,Subiculum,10,17.421307
+i26,490,X-region,CA1,1,15.872234
+i26,490,X-region,CA1,2,17.402643
+i26,490,X-region,CA1,3,14.932799
+i26,490,X-region,CA1,4,17.858826
+i26,490,X-region,CA1,5,15.133349
+i26,490,X-region,CA1,6,15.71956
+i26,490,X-region,CA1,7,14.185891
+i26,490,X-region,CA1,8,16.615234
+i26,490,X-region,CA1,9,16.631413
+i26,490,X-region,CA1,10,14.335041
+i26,490,X-region,ProSub1 (clumpy),1,
+i26,490,X-region,ProSub1 (clumpy),2,
+i26,490,X-region,ProSub1 (clumpy),3,
+i26,490,X-region,ProSub1 (clumpy),4,
+i26,490,X-region,ProSub1 (clumpy),5,
+i26,490,X-region,ProSub1 (clumpy),6,
+i26,490,X-region,ProSub1 (clumpy),7,
+i26,490,X-region,ProSub1 (clumpy),8,
+i26,490,X-region,ProSub1 (clumpy),9,
+i26,490,X-region,ProSub1 (clumpy),10,
+i26,490,X-region,Prosub2 (smaller),1,16.2577
+i26,490,X-region,Prosub2 (smaller),2,15.50681
+i26,490,X-region,Prosub2 (smaller),3,14.935881
+i26,490,X-region,Prosub2 (smaller),4,16.376919
+i26,490,X-region,Prosub2 (smaller),5,15.263575
+i26,490,X-region,Prosub2 (smaller),6,11.742188
+i26,490,X-region,Prosub2 (smaller),7,13.291365
+i26,490,X-region,Prosub2 (smaller),8,14.386621
+i26,490,X-region,Prosub2 (smaller),9,14.751818
+i26,490,X-region,Prosub2 (smaller),10,14.843902
+i26,490,X-region,Subiculum,1,16.879816
+i26,490,X-region,Subiculum,2,12.858759
+i26,490,X-region,Subiculum,3,15.634433
+i26,490,X-region,Subiculum,4,17.009838
+i26,490,X-region,Subiculum,5,17.753328
+i26,490,X-region,Subiculum,6,17.628746
+i26,490,X-region,Subiculum,7,18.698141
+i26,490,X-region,Subiculum,8,15.334685
+i26,490,X-region,Subiculum,9,14.691347
+i26,490,X-region,Subiculum,10,15.265375
+i26,445,Posterior head,CA1,1,16.024263
+i26,445,Posterior head,CA1,2,17.859129
+i26,445,Posterior head,CA1,3,13.109299
+i26,445,Posterior head,CA1,4,14.150948
+i26,445,Posterior head,CA1,5,12.745552
+i26,445,Posterior head,CA1,6,17.195709
+i26,445,Posterior head,CA1,7,15.520311
+i26,445,Posterior head,CA1,8,16.18718
+i26,445,Posterior head,CA1,9,18.223606
+i26,445,Posterior head,CA1,10,16.295233
+i26,445,Posterior head,ProSub1 (clumpy),1,15.20667
+i26,445,Posterior head,ProSub1 (clumpy),2,17.338806
+i26,445,Posterior head,ProSub1 (clumpy),3,13.120408
+i26,445,Posterior head,ProSub1 (clumpy),4,12.556705
+i26,445,Posterior head,ProSub1 (clumpy),5,13.820115
+i26,445,Posterior head,ProSub1 (clumpy),6,15.331726
+i26,445,Posterior head,ProSub1 (clumpy),7,13.541098
+i26,445,Posterior head,ProSub1 (clumpy),8,18.925674
+i26,445,Posterior head,ProSub1 (clumpy),9,14.021666
+i26,445,Posterior head,ProSub1 (clumpy),10,15.691952
+i26,445,Posterior head,Prosub2 (smaller),1,
+i26,445,Posterior head,Prosub2 (smaller),2,
+i26,445,Posterior head,Prosub2 (smaller),3,
+i26,445,Posterior head,Prosub2 (smaller),4,
+i26,445,Posterior head,Prosub2 (smaller),5,
+i26,445,Posterior head,Prosub2 (smaller),6,
+i26,445,Posterior head,Prosub2 (smaller),7,
+i26,445,Posterior head,Prosub2 (smaller),8,
+i26,445,Posterior head,Prosub2 (smaller),9,
+i26,445,Posterior head,Prosub2 (smaller),10,
+i26,445,Posterior head,Subiculum,1,13.120418
+i26,445,Posterior head,Subiculum,2,17.905064
+i26,445,Posterior head,Subiculum,3,14.779311
+i26,445,Posterior head,Subiculum,4,16.149729
+i26,445,Posterior head,Subiculum,5,16.413252
+i26,445,Posterior head,Subiculum,6,15.683564
+i26,445,Posterior head,Subiculum,7,16.212919
+i26,445,Posterior head,Subiculum,8,17.764576
+i26,445,Posterior head,Subiculum,9,17.20314
+i26,445,Posterior head,Subiculum,10,15.822041
+i26,405,Medial head,CA1,1,19.045057
+i26,405,Medial head,CA1,2,20.210127
+i26,405,Medial head,CA1,3,18.519682
+i26,405,Medial head,CA1,4,18.185101
+i26,405,Medial head,CA1,5,14.107326
+i26,405,Medial head,CA1,6,18.475988
+i26,405,Medial head,CA1,7,15.944654
+i26,405,Medial head,CA1,8,15.663319
+i26,405,Medial head,CA1,9,18.163837
+i26,405,Medial head,CA1,10,17.460638
+i26,405,Medial head,ProSub1 (clumpy),1,17.141079
+i26,405,Medial head,ProSub1 (clumpy),2,16.276146
+i26,405,Medial head,ProSub1 (clumpy),3,15.33192
+i26,405,Medial head,ProSub1 (clumpy),4,14.13583
+i26,405,Medial head,ProSub1 (clumpy),5,17.882872
+i26,405,Medial head,ProSub1 (clumpy),6,16.843893
+i26,405,Medial head,ProSub1 (clumpy),7,15.569545
+i26,405,Medial head,ProSub1 (clumpy),8,15.937818
+i26,405,Medial head,ProSub1 (clumpy),9,16.919981
+i26,405,Medial head,ProSub1 (clumpy),10,14.386559
+i26,405,Medial head,Prosub2 (smaller),1,
+i26,405,Medial head,Prosub2 (smaller),2,
+i26,405,Medial head,Prosub2 (smaller),3,
+i26,405,Medial head,Prosub2 (smaller),4,
+i26,405,Medial head,Prosub2 (smaller),5,
+i26,405,Medial head,Prosub2 (smaller),6,
+i26,405,Medial head,Prosub2 (smaller),7,
+i26,405,Medial head,Prosub2 (smaller),8,
+i26,405,Medial head,Prosub2 (smaller),9,
+i26,405,Medial head,Prosub2 (smaller),10,
+i26,405,Medial head,Subiculum,1,15.561146
+i26,405,Medial head,Subiculum,2,17.004381
+i26,405,Medial head,Subiculum,3,17.859015
+i26,405,Medial head,Subiculum,4,17.338823
+i26,405,Medial head,Subiculum,5,19.074638
+i26,405,Medial head,Subiculum,6,19.671043
+i26,405,Medial head,Subiculum,7,16.87915
+i26,405,Medial head,Subiculum,8,16.648407
+i26,405,Medial head,Subiculum,9,19.624199
+i26,405,Medial head,Subiculum,10,16.713263
+i29,576,body,CA1,1,16.509178
+i29,576,body,CA1,2,13.297307
+i29,576,body,CA1,3,15.782849
+i29,576,body,CA1,4,16.831104
+i29,576,body,CA1,5,15.893761
+i29,576,body,CA1,6,15.546575
+i29,576,body,CA1,7,14.932173
+i29,576,body,CA1,8,15.935678
+i29,576,body,CA1,9,15.288986
+i29,576,body,CA1,10,14.787351
+i29,576,body,ProSub1 (clumpy),1,15.847294
+i29,576,body,ProSub1 (clumpy),2,15.450896
+i29,576,body,ProSub1 (clumpy),3,12.424771
+i29,576,body,ProSub1 (clumpy),4,14.31531
+i29,576,body,ProSub1 (clumpy),5,15.482223
+i29,576,body,ProSub1 (clumpy),6,13.792986
+i29,576,body,ProSub1 (clumpy),7,15.166565
+i29,576,body,ProSub1 (clumpy),8,13.053224
+i29,576,body,ProSub1 (clumpy),9,13.266201
+i29,576,body,ProSub1 (clumpy),10,15.282463
+i29,576,body,Prosub2 (smaller),1,14.329587
+i29,576,body,Prosub2 (smaller),2,14.065529
+i29,576,body,Prosub2 (smaller),3,16.115477
+i29,576,body,Prosub2 (smaller),4,15.906865
+i29,576,body,Prosub2 (smaller),5,10.273926
+i29,576,body,Prosub2 (smaller),6,12.248815
+i29,576,body,Prosub2 (smaller),7,15.001933
+i29,576,body,Prosub2 (smaller),8,12.927419
+i29,576,body,Prosub2 (smaller),9,13.813107
+i29,576,body,Prosub2 (smaller),10,13.894033
+i29,576,body,Subiculum,1,15.206917
+i29,576,body,Subiculum,2,16.512207
+i29,576,body,Subiculum,3,15.795592
+i29,576,body,Subiculum,4,17.650526
+i29,576,body,Subiculum,5,12.848324
+i29,576,body,Subiculum,6,16.145264
+i29,576,body,Subiculum,7,17.192125
+i29,576,body,Subiculum,8,15.778661
+i29,576,body,Subiculum,9,14.195445
+i29,576,body,Subiculum,10,14.182958
+i29,516,X-region,CA1,1,13.858663
+i29,516,X-region,CA1,2,16.063107
+i29,516,X-region,CA1,3,15.310681
+i29,516,X-region,CA1,4,16.024324
+i29,516,X-region,CA1,5,14.353482
+i29,516,X-region,CA1,6,15.380849
+i29,516,X-region,CA1,7,13.473339
+i29,516,X-region,CA1,8,15.703944
+i29,516,X-region,CA1,9,14.474464
+i29,516,X-region,CA1,10,15.54647
+i29,516,X-region,ProSub1 (clumpy),1,15.003511
+i29,516,X-region,ProSub1 (clumpy),2,14.315553
+i29,516,X-region,ProSub1 (clumpy),3,14.310791
+i29,516,X-region,ProSub1 (clumpy),4,13.639172
+i29,516,X-region,ProSub1 (clumpy),5,15.116878
+i29,516,X-region,ProSub1 (clumpy),6,15.628347
+i29,516,X-region,ProSub1 (clumpy),7,14.316051
+i29,516,X-region,ProSub1 (clumpy),8,12.811597
+i29,516,X-region,ProSub1 (clumpy),9,11.610814
+i29,516,X-region,ProSub1 (clumpy),10,14.79313
+i29,516,X-region,Prosub2 (smaller),1,12.550218
+i29,516,X-region,Prosub2 (smaller),2,14.787492
+i29,516,X-region,Prosub2 (smaller),3,14.054833
+i29,516,X-region,Prosub2 (smaller),4,16.933044
+i29,516,X-region,Prosub2 (smaller),5,13.798173
+i29,516,X-region,Prosub2 (smaller),6,14.52317
+i29,516,X-region,Prosub2 (smaller),7,17.261957
+i29,516,X-region,Prosub2 (smaller),8,15.683372
+i29,516,X-region,Prosub2 (smaller),9,15.446568
+i29,516,X-region,Prosub2 (smaller),10,14.75173
+i29,516,X-region,Subiculum,1,17.291018
+i29,516,X-region,Subiculum,2,20.045074
+i29,516,X-region,Subiculum,3,16.250475
+i29,516,X-region,Subiculum,4,14.957427
+i29,516,X-region,Subiculum,5,15.885949
+i29,516,X-region,Subiculum,6,13.977643
+i29,516,X-region,Subiculum,7,18.439577
+i29,516,X-region,Subiculum,8,17.596304
+i29,516,X-region,Subiculum,9,15.907949
+i29,516,X-region,Subiculum,10,19.447754
+i29,471,Posterior head,CA1,1,14.516192
+i29,471,Posterior head,CA1,2,14.353482
+i29,471,Posterior head,CA1,3,16.381765
+i29,471,Posterior head,CA1,4,16.476133
+i29,471,Posterior head,CA1,5,17.816849
+i29,471,Posterior head,CA1,6,15.354654
+i29,471,Posterior head,CA1,7,14.773748
+i29,471,Posterior head,CA1,8,17.1266
+i29,471,Posterior head,CA1,9,15.452717
+i29,471,Posterior head,CA1,10,15.815969
+i29,471,Posterior head,ProSub1 (clumpy),1,16.417498
+i29,471,Posterior head,ProSub1 (clumpy),2,15.344921
+i29,471,Posterior head,ProSub1 (clumpy),3,17.420977
+i29,471,Posterior head,ProSub1 (clumpy),4,14.136409
+i29,471,Posterior head,ProSub1 (clumpy),5,15.282001
+i29,471,Posterior head,ProSub1 (clumpy),6,13.811848
+i29,471,Posterior head,ProSub1 (clumpy),7,14.625168
+i29,471,Posterior head,ProSub1 (clumpy),8,15.817162
+i29,471,Posterior head,ProSub1 (clumpy),9,14.065293
+i29,471,Posterior head,ProSub1 (clumpy),10,15.40708
+i29,471,Posterior head,Prosub2 (smaller),1,13.473113
+i29,471,Posterior head,Prosub2 (smaller),2,16.388599
+i29,471,Posterior head,Prosub2 (smaller),3,14.887388
+i29,471,Posterior head,Prosub2 (smaller),4,13.942848
+i29,471,Posterior head,Prosub2 (smaller),5,15.371164
+i29,471,Posterior head,Prosub2 (smaller),6,16.204546
+i29,471,Posterior head,Prosub2 (smaller),7,14.875743
+i29,471,Posterior head,Prosub2 (smaller),8,14.814664
+i29,471,Posterior head,Prosub2 (smaller),9,17.192312
+i29,471,Posterior head,Prosub2 (smaller),10,13.62177
+i29,471,Posterior head,Subiculum,1,19.061522
+i29,471,Posterior head,Subiculum,2,17.191938
+i29,471,Posterior head,Subiculum,3,16.16239
+i29,471,Posterior head,Subiculum,4,17.239359
+i29,471,Posterior head,Subiculum,5,17.752052
+i29,471,Posterior head,Subiculum,6,18.221004
+i29,471,Posterior head,Subiculum,7,17.653172
+i29,471,Posterior head,Subiculum,8,19.98912
+i29,471,Posterior head,Subiculum,9,20.578661
+i29,471,Posterior head,Subiculum,10,19.535164
+i29,450,Medial head,CA1,1,14.683209
+i29,450,Medial head,CA1,2,15.915071
+i29,450,Medial head,CA1,3,14.595346
+i29,450,Medial head,CA1,4,14.099686
+i29,450,Medial head,CA1,5,13.547542
+i29,450,Anterior head,CA1,6,15.107977
+i29,450,Medial head,CA1,7,15.98261
+i29,450,Medial head,CA1,8,16.508379
+i29,450,Medial head,CA1,9,14.932245
+i29,450,Medial head,CA1,10,17.12669
+i29,450,Medial head,ProSub1 (clumpy),1,13.564186
+i29,450,Medial head,ProSub1 (clumpy),2,14.054959
+i29,450,Medial head,ProSub1 (clumpy),3,14.18533
+i29,450,Medial head,ProSub1 (clumpy),4,12.89424
+i29,450,Medial head,ProSub1 (clumpy),5,13.174474
+i29,450,Anterior head,ProSub1 (clumpy),6,13.315376
+i29,450,Medial head,ProSub1 (clumpy),7,16.720938
+i29,450,Medial head,ProSub1 (clumpy),8,12.546029
+i29,450,Medial head,ProSub1 (clumpy),9,12.139517
+i29,450,Medial head,ProSub1 (clumpy),10,16.440947
+i29,450,Medial head,Prosub2 (smaller),1,15.933086
+i29,450,Medial head,Prosub2 (smaller),2,13.756343
+i29,450,Medial head,Prosub2 (smaller),3,12.38177
+i29,450,Medial head,Prosub2 (smaller),4,14.065347
+i29,450,Medial head,Prosub2 (smaller),5,11.263542
+i29,450,Anterior head,Prosub2 (smaller),6,13.621861
+i29,450,Medial head,Prosub2 (smaller),7,14.719288
+i29,450,Medial head,Prosub2 (smaller),8,14.253167
+i29,450,Medial head,Prosub2 (smaller),9,12.497792
+i29,450,Medial head,Prosub2 (smaller),10,16.258097
+i29,450,Medial head,Subiculum,1,15.125274
+i29,450,Medial head,Subiculum,2,16.843662
+i29,450,Medial head,Subiculum,3,15.452659
+i29,450,Medial head,Subiculum,4,12.871738
+i29,450,Medial head,Subiculum,5,16.183231
+i29,450,Anterior head,Subiculum,6,14.871161
+i29,450,Medial head,Subiculum,7,16.528715
+i29,450,Medial head,Subiculum,8,17.538128
+i29,450,Medial head,Subiculum,9,17.923767
+i29,450,Medial head,Subiculum,10,18.350637
+i49,421,body,CA1,1,14.250362
+i49,421,body,CA1,2,16.578287
+i49,421,body,CA1,3,12.700748
+i49,421,body,CA1,4,14.315878
+i49,421,body,CA1,5,15.186206
+i49,421,body,CA1,6,14.900714
+i49,421,body,CA1,7,14.819369
+i49,421,body,CA1,8,15.178278
+i49,421,body,CA1,9,15.057984
+i49,421,body,CA1,10,14.599564
+i49,421,body,ProSub1 (clumpy),1,14.122036
+i49,421,body,ProSub1 (clumpy),2,11.56755
+i49,421,body,ProSub1 (clumpy),3,13.005939
+i49,421,body,ProSub1 (clumpy),4,13.688525
+i49,421,body,ProSub1 (clumpy),5,13.354446
+i49,421,body,ProSub1 (clumpy),6,13.798005
+i49,421,body,ProSub1 (clumpy),7,14.131942
+i49,421,body,ProSub1 (clumpy),8,13.367404
+i49,421,body,ProSub1 (clumpy),9,16.137232
+i49,421,body,ProSub1 (clumpy),10,12.192008
+i49,421,body,Prosub2 (smaller),1,14.520085
+i49,421,body,Prosub2 (smaller),2,13.719042
+i49,421,body,Prosub2 (smaller),3,14.806421
+i49,421,body,Prosub2 (smaller),4,11.996428
+i49,421,body,Prosub2 (smaller),5,14.312878
+i49,421,body,Prosub2 (smaller),6,14.843734
+i49,421,body,Prosub2 (smaller),7,15.048962
+i49,421,body,Prosub2 (smaller),8,12.848321
+i49,421,body,Prosub2 (smaller),9,15.196075
+i49,421,body,Prosub2 (smaller),10,12.81785
+i49,421,body,Subiculum,1,14.689299
+i49,421,body,Subiculum,2,15.704413
+i49,421,body,Subiculum,3,15.745297
+i49,421,body,Subiculum,4,14.08701
+i49,421,body,Subiculum,5,15.519078
+i49,421,body,Subiculum,6,17.252279
+i49,421,body,Subiculum,7,17.482965
+i49,421,body,Subiculum,8,17.29064
+i49,421,body,Subiculum,9,15.403714
+i49,421,body,Subiculum,10,15.999236
+i49,330,X-region,CA1,1,18.223291
+i49,330,X-region,CA1,2,16.455093
+i49,330,X-region,CA1,3,18.402321
+i49,330,X-region,CA1,4,17.537609
+i49,330,X-region,CA1,5,15.98626
+i49,330,X-region,CA1,6,14.386905
+i49,330,X-region,CA1,7,18.223291
+i49,330,X-region,CA1,8,14.531338
+i49,330,X-region,CA1,9,17.153091
+i49,330,X-region,CA1,10,15.138184
+i49,330,X-region,ProSub1 (clumpy),1,
+i49,330,X-region,ProSub1 (clumpy),2,
+i49,330,X-region,ProSub1 (clumpy),3,
+i49,330,X-region,ProSub1 (clumpy),4,
+i49,330,X-region,ProSub1 (clumpy),5,
+i49,330,X-region,ProSub1 (clumpy),6,
+i49,330,X-region,ProSub1 (clumpy),7,
+i49,330,X-region,ProSub1 (clumpy),8,
+i49,330,X-region,ProSub1 (clumpy),9,
+i49,330,X-region,ProSub1 (clumpy),10,
+i49,330,X-region,Prosub2 (smaller),1,11.099118
+i49,330,X-region,Prosub2 (smaller),2,11.792393
+i49,330,X-region,Prosub2 (smaller),3,12.88411
+i49,330,X-region,Prosub2 (smaller),4,16.25043
+i49,330,X-region,Prosub2 (smaller),5,14.002367
+i49,330,X-region,Prosub2 (smaller),6,15.663387
+i49,330,X-region,Prosub2 (smaller),7,12.745396
+i49,330,X-region,Prosub2 (smaller),8,13.429571
+i49,330,X-region,Prosub2 (smaller),9,14.318698
+i49,330,X-region,Prosub2 (smaller),10,12.81543
+i49,330,X-region,Subiculum,1,17.655499
+i49,330,X-region,Subiculum,2,16.032942
+i49,330,X-region,Subiculum,3,15.177651
+i49,330,X-region,Subiculum,4,15.638319
+i49,330,X-region,Subiculum,5,15.454682
+i49,330,X-region,Subiculum,6,15.334685
+i49,330,X-region,Subiculum,7,14.469795
+i49,330,X-region,Subiculum,8,14.705958
+i49,330,X-region,Subiculum,9,17.580627
+i49,330,X-region,Subiculum,10,16.381941
+i49,301,Medial head,CA1,1,15.683295
+i49,301,Medial head,CA1,2,16.741936
+i49,301,Medial head,CA1,3,16.741968
+i49,301,Medial head,CA1,4,16.742439
+i49,301,Medial head,CA1,5,17.882872
+i49,301,Medial head,CA1,6,12.55657
+i49,301,Medial head,CA1,7,14.522852
+i49,301,Medial head,CA1,8,15.955173
+i49,301,Medial head,CA1,9,16.148569
+i49,301,Medial head,CA1,10,19.129158
+i49,301,Medial head,ProSub1 (clumpy),1,16.224226
+i49,301,Medial head,ProSub1 (clumpy),2,14.202044
+i49,301,Medial head,ProSub1 (clumpy),3,14.263896
+i49,301,Medial head,ProSub1 (clumpy),4,16.253721
+i49,301,Medial head,ProSub1 (clumpy),5,14.349782
+i49,301,Medial head,ProSub1 (clumpy),6,16.373623
+i49,301,Medial head,ProSub1 (clumpy),7,16.64726
+i49,301,Medial head,ProSub1 (clumpy),8,14.95485
+i49,301,Medial head,ProSub1 (clumpy),9,14.595403
+i49,301,Medial head,ProSub1 (clumpy),10,18.01861
+i49,301,Medial head,Prosub2 (smaller),1,14.932655
+i49,301,Medial head,Prosub2 (smaller),2,12.137046
+i49,301,Medial head,Prosub2 (smaller),3,14.869308
+i49,301,Medial head,Prosub2 (smaller),4,14.220392
+i49,301,Medial head,Prosub2 (smaller),5,15.058568
+i49,301,Medial head,Prosub2 (smaller),6,14.818806
+i49,301,Medial head,Prosub2 (smaller),7,15.170003
+i49,301,Medial head,Prosub2 (smaller),8,12.321
+i49,301,Medial head,Prosub2 (smaller),9,13.08845
+i49,301,Medial head,Prosub2 (smaller),10,13.795585
+i49,301,Medial head,Subiculum,1,16.80002
+i49,301,Medial head,Subiculum,2,14.104947
+i49,301,Medial head,Subiculum,3,13.688679
+i49,301,Medial head,Subiculum,4,15.943682
+i49,301,Medial head,Subiculum,5,14.441413
+i49,301,Medial head,Subiculum,6,18.552881
+i49,301,Medial head,Subiculum,7,16.93202
+i49,301,Medial head,Subiculum,8,18.095522
+i49,301,Medial head,Subiculum,9,16.94031
+i49,301,Medial head,Subiculum,10,15.01808
+i49,261,Anterior head,CA1,1,15.628194
+i49,261,Anterior head,CA1,2,16.141888
+i49,261,Anterior head,CA1,3,17.478453
+i49,261,Anterior head,CA1,4,19.629152
+i49,261,Anterior head,CA1,5,15.766059
+i49,261,Anterior head,CA1,6,14.502307
+i49,261,Anterior head,CA1,7,17.195841
+i49,261,Anterior head,CA1,8,17.386724
+i49,261,Anterior head,CA1,9,17.492683
+i49,261,Anterior head,CA1,10,13.303567
+i49,261,Anterior head,ProSub1 (clumpy),1,16.394533
+i49,261,Anterior head,ProSub1 (clumpy),2,16.332281
+i49,261,Anterior head,ProSub1 (clumpy),3,14.404095
+i49,261,Anterior head,ProSub1 (clumpy),4,14.95532
+i49,261,Anterior head,ProSub1 (clumpy),5,17.783331
+i49,261,Anterior head,ProSub1 (clumpy),6,15.52085
+i49,261,Anterior head,ProSub1 (clumpy),7,15.548466
+i49,261,Anterior head,ProSub1 (clumpy),8,12.559052
+i49,261,Anterior head,ProSub1 (clumpy),9,14.244891
+i49,261,Anterior head,ProSub1 (clumpy),10,15.138384
+i49,261,Anterior head,Prosub2 (smaller),1,14.882961
+i49,261,Anterior head,Prosub2 (smaller),2,18.464588
+i49,261,Anterior head,Prosub2 (smaller),3,14.150726
+i49,261,Anterior head,Prosub2 (smaller),4,12.71211
+i49,261,Anterior head,Prosub2 (smaller),5,13.837486
+i49,261,Anterior head,Prosub2 (smaller),6,15.415799
+i49,261,Anterior head,Prosub2 (smaller),7,15.963354
+i49,261,Anterior head,Prosub2 (smaller),8,12.981773
+i49,261,Anterior head,Prosub2 (smaller),9,17.402634
+i49,261,Anterior head,Prosub2 (smaller),10,13.820752
+i49,261,Anterior head,Subiculum,1,19.020288
+i49,261,Anterior head,Subiculum,2,17.846628
+i49,261,Anterior head,Subiculum,3,14.59834
+i49,261,Anterior head,Subiculum,4,18.184614
+i49,261,Anterior head,Subiculum,5,15.66325
+i49,261,Anterior head,Subiculum,6,15.518992
+i49,261,Anterior head,Subiculum,7,15.508456
+i49,261,Anterior head,Subiculum,8,13.905782
+i49,261,Anterior head,Subiculum,9,15.765786
+i49,261,Anterior head,Subiculum,10,15.944654
