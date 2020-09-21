@@ -91,6 +91,9 @@ s <- '5\'10"'
 cat(s)
 
 
+# defining strings as regular expressions (regex; patterns in the strings)
+
+
 
 # PLAN OF ATTACK: ####
 # convert entries fitting the first two patterns into a standardized one
