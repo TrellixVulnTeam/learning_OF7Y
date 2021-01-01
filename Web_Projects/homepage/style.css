@@ -1,0 +1,39 @@
+body {
+  padding-top: 5px;
+  background: #05386B;
+}
+
+/* items */
+
+.grid-1 {
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  grid-gap: 5px;
+  text-align: center;
+  }
+
+/* specific item styles */
+
+.col1 {
+  background: #EDF5E1;
+  color: black;
+}
+.col2 {
+  background: #5CDB95;
+}
+
+.menu_button {
+  background-color: #EDF5E1;
+  color: #05386B;
+  border-radius: 5px;
+  border: .5px solid #05386B;
+}
+
+.menu_button:hover {
+  background-color: #05386B;
+  color: #EDF5E1;
+}

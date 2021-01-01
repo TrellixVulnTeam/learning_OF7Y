@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>hello</title>
+    <script>
+
+      function hello()
+      {
+        let name = document.querySelector('#name').value;
+        if (name === '')
+        {
+          name = 'world';
+        }
+        document.querySelector('#output').innerHTML = 'Hello, ' + name + '!';
+      }
+    </script>
+  </head>
+  <body>
+    <form onsubmit="hello(); return false;">
+      <input id='name' type="text">
+      <input type='submit'>
+    </form>
+    <div id="output">
+      Hello
+    </div>
+  </body>
+</html>

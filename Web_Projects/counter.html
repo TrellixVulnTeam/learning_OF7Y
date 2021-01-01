@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>counter</title>
+    <script>
+      let counter = 0;
+
+      function increment()
+      {
+        counter++;
+        document.querySelector("#result").innerHTML = counter;
+      }
+      function subtract()
+      {
+        counter--
+        document.querySelector("#result").innerHTML = counter;
+      }
+    </script>
+    <style>
+      .box {
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      body {
+        text-align: center;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div id="result" class="box">
+      0
+    </div>
+    <div>
+      <form onsubmit="increment(); return false;">
+        <input type="submit" value="add">
+      </form>
+      <form onsubmit="subtract(); return false;">
+        <input type="submit" value="subtract">
+      </form>
+    </div>
+
+  </body>
+</html>
